@@ -1,0 +1,9 @@
+streamlit
+chromadb
+networkx
+pytesseract
+Pillow
+pypdf
+openai
+pandas
+matplotlib
