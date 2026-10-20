@@ -3,7 +3,6 @@
 MemoryVerse is an intelligent, graph-driven personal portfolio manager and digital memory system. It ingests career milestones, technical skills, certifications, and academic accomplishments, auto-categorizes them using LLMs, and maps them into an interactive relationship graph and chronological timeline.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://memoryverse-aknwxehotjypbxt57hyhyv.streamlit.app)
-[![Live Interactive Prototype](https://img.shields.io/badge/Demo-Interactive_Prototype-brightgreen)](https://Monashri8127.github.io/MemoryVerse/)
 
 > **Live Links**:
 > - 🚀 **Streamlit Cloud App**: [memoryverse-aknwxehotjypbxt57hyhyv.streamlit.app](https://memoryverse-aknwxehotjypbxt57hyhyv.streamlit.app)
