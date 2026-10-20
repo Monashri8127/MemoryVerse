@@ -6,7 +6,7 @@ MemoryVerse is an intelligent, graph-driven personal portfolio manager and digit
 
 > **Live Links**:
 > - 🚀 **Streamlit Cloud App**: [memoryverse-aknwxehotjypbxt57hyhyv.streamlit.app](https://memoryverse-aknwxehotjypbxt57hyhyv.streamlit.app)
-> - 🌐 **Interactive Web Prototype**: [Monashri8127.github.io/MemoryVerse](https://Monashri8127.github.io/MemoryVerse/)
+
 ---
 
 ## ✨ Features
